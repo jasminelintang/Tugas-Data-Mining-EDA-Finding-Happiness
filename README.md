@@ -21,3 +21,20 @@ Menurut databooks (https://databoks.katadata.co.id/datapublish/2024/01/25/ini-10
 
 ### Deskripsi :
 Membandingkan posisi 10 negara penduduk terbanyak dengan negara paling bahagia (Finlandia) dan negara paling tidak bahagia (Sudan Selatan)
+
+## Peringkat Indonesia dan Negara Lainnya
+<img src='https://github.com/jasminelintang/Tugas-Data-Mining-EDA-Finding-Happiness/blob/aa4fe5356e88fc4296b71c0d834f0ba8b092755e/PeringkatSkorBahagia.png'>
+
+### Deskripsi :
+Melihat peringkat Indonesia di antara 10 negara penduduk terbanyak dan membandingkan dengan urutan penduduk terbanyak
+- India (peringkat 140)
+- China (peringkat 93)
+- Amerika Serikat (peringkat 19)
+- Indonesia (peringkat 92)
+- Pakistan (peringkat 67)
+- Nigeria (peringkat 85)
+- Brazil (peringkat 32)
+- Bangladesh (peringkat 125)
+- Rusia (peringkat 68)
+- Meksiko (peringkat 23)
+
