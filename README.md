@@ -42,3 +42,16 @@ Melihat peringkat Indonesia di antara 10 negara penduduk terbanyak dan membandin
 <img src='https://github.com/jasminelintang/Tugas-Data-Mining-EDA-Finding-Happiness/blob/6bd536df46a766d49e00f41d79d2d51115ba45b3/CompareRankIndoIndia.png'>
 
 #### Indonesia berada di peringkat 92 sedangkan India berada di peringkat 140
+
+## Perbandingan Indonesia dan India dari Beberapa Faktor
+<img src='https://github.com/jasminelintang/Tugas-Data-Mining-EDA-Finding-Happiness/blob/9f9a84302147503b9813c7595ff4277827225263/CompareFactorIndoIndia.png'>
+
+### Deskripsi :
+Melihat perbandingan Indonesia dan India dari beberapa faktor yang mempengaruhi skor kebahagiaan, seperti :
+- Healthy life expectancy (harapan hidup sehat)
+- Social Support (dukungan sosial)
+- GDP per capita (Produk Domestik Bruto per kapita)
+- Perceptions of corruption (tingkat korupsi suatu negara)
+- Generosity (kemurahan hati setiap individu)
+- Freedom to make life choices (kebebasan untuk membuat pilihan hidup)
+Dari beberapa faktor di atas, hampir seluruhnya Indonesia unggul karena berdasarkan peringkat kebahagiaan suatu negara, Indonesia juga ada di atas India.
