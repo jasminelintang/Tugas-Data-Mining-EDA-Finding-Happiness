@@ -38,3 +38,7 @@ Melihat peringkat Indonesia di antara 10 negara penduduk terbanyak dan membandin
 - Rusia (peringkat 68)
 - Meksiko (peringkat 23)
 
+## Perbandingan Peringkat Indonesia dan India
+<img src='https://github.com/jasminelintang/Tugas-Data-Mining-EDA-Finding-Happiness/blob/6bd536df46a766d49e00f41d79d2d51115ba45b3/CompareRankIndoIndia.png'>
+
+#### Indonesia berada di peringkat 92 sedangkan India berada di peringkat 140
