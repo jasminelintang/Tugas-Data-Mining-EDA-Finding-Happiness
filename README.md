@@ -15,3 +15,9 @@ Menurut databooks (https://databoks.katadata.co.id/datapublish/2024/01/25/ini-10
 8. Bangladesh
 9. Rusia
 10. Meksiko
+
+## Posisi Indonesia
+<img src='https://github.com/jasminelintang/Tugas-Data-Mining-EDA-Finding-Happiness/blob/186e8997491585b114035da875a0f1e549b9bd73/PosisiNegara.png'>
+
+### Deskripsi :
+Membandingkan posisi 10 negara penduduk terbanyak dengan negara paling bahagia (Finlandia) dan negara paling tidak bahagia (Sudan Selatan)
