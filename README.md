@@ -54,4 +54,5 @@ Melihat perbandingan Indonesia dan India dari beberapa faktor yang mempengaruhi 
 - Perceptions of corruption (tingkat korupsi suatu negara)
 - Generosity (kemurahan hati setiap individu)
 - Freedom to make life choices (kebebasan untuk membuat pilihan hidup)
+
 Dari beberapa faktor di atas, hampir seluruhnya Indonesia unggul karena berdasarkan peringkat kebahagiaan suatu negara, Indonesia juga ada di atas India.
